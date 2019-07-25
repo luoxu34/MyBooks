@@ -33,6 +33,6 @@
 
 ## 一些书单
 
-1. [香港大学推荐的50本经典书籍](https://book.douban.com/tag/%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%AD%A6%E6%8E%A8%E8%8D%90%E7%9A%8450%E6%9C%AC%E7%BB%8F%E5%85%B8%E4%B9%A6%E7%B1%8D)
+1. [香港大学推荐的50本经典书籍](https://book.douban.com/tag/香港大学推荐的50本经典书籍)
 2. [我的书单](MyBooks.md)
 
