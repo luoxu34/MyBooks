@@ -15,7 +15,7 @@
 * 图书馆
 * [豆瓣读书](https://book.douban.com/)
 * [好读](http://haodoo.net/)
-* [书格](https://shuge.org/)
+* [书格](https://new.shuge.org/)
 * [ePUBee](http://cn.epubee.com/books/)
 
 ## 买书
